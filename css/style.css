@@ -1,0 +1,15 @@
+/* Allgemein */
+body {
+    margin: 0;
+    padding: 24px;
+    background-color: #fcfcfc;
+    color: #000000;
+    font-family: system-ui, sans-serif;
+    font-size: 20px;
+}
+
+/* Überschrift */
+h1 {
+    font-size: 40px;
+    color: #4B4DDB;
+}
