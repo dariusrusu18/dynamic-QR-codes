@@ -42,14 +42,14 @@ nav a {
 
 /* Einstiegsbereich */
 .hero {
-    padding: 64px, 0;
+    padding: 64px 0;
 }
 
 /* Knopf */
 .button {
     display: inline-block;
-    padding: 12px, 24px;
-    background-color: #4B4DBB;
+    padding: 12px 24px;
+    background-color: #4B4DDB;
     color: #ffffff;
     border-radius: 8px; /*runde Ecken */
     text-decoration: none;
